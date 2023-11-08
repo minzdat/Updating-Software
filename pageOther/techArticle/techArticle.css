@@ -1,0 +1,75 @@
+.all-content-tech-article{
+    margin-bottom: 50px;
+    margin-left: 10px !important;
+    max-width: 100% !important;
+    font-family: 'Open Sans';
+}
+.nav-list-tech-article{
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    height: fit-content;
+    position: sticky;
+    top: 24px;
+}
+.nav-list-tech-article .form-floating label{
+    opacity: 0.5; 
+    margin-left: 41px !important;
+    z-index: 5;
+}
+.simple-list-tech-article{
+    padding-left: 50px !important;
+    padding-right: 100px !important;
+}
+.blockquote-tech-article{
+    text-align: justify;
+    padding: 10px 20px;
+}
+.footer-blockquote-design-article{
+    margin-top: 10px !important;
+}
+.img-and-content-article{
+    display: flex; 
+    align-items: center;
+}
+.img-smart-house{
+    margin-right: 15px;
+}
+.content-IOT{
+    padding-right: 50px;
+}
+.content-AI{
+    margin-right: 35px;
+}
+.img-program-AI{
+    margin-bottom: 20px;
+}
+.content-program-AI{
+    margin-left: 50px;
+}
+.content-vLSI{
+    margin-right: 60px;
+}
+.img-VLSI{
+    margin-right: 30px;
+}
+.img-cpu-icon{
+    text-align: center; 
+    margin-bottom: 20px
+}
+.img-computer-chip{
+    margin-right: 30px;
+}
+.img-program-embedded{
+    margin-right: 30px; 
+    margin-bottom: 20px;
+}
+.content-program-embedded-c{
+    margin-right: 55px;
+}
+.img-robotic-arm{
+    margin-bottom: 20px;
+}
+.img-rom-embedded{
+    text-align: center; 
+    margin-bottom: 20px
+}

@@ -1,0 +1,134 @@
+body .page-content-in-home{
+    font-family: 'Open Sans';
+    font-size: 18px;
+}
+.tiltle-page-myblog{
+    font-family: Roboto Mono;
+    font-size: 70px;
+}
+.professional-Skills-style li a{
+    text-decoration: none;
+}
+.soft-skills li{
+    margin-bottom: 50px;
+}
+.soft-skills li img{
+    float: right;
+}
+.contact-mine{
+    padding-top: 20px;
+}
+.social-media-footer{
+    margin-top: 30px;
+}
+.aboutMe{
+    display: flex; 
+    align-items: center;
+}
+.img-in-aboutMe{
+    margin: 50px 40px 20px 40px;
+}
+.content-about-me{
+    text-align: justify;
+}
+.sider-page-right{
+    height: fit-content;
+    position: sticky;
+    top: 24px;
+}
+.img-experience-web-developer{
+    text-align: center;
+}
+.progress-tech-in-project{
+    margin: 20px 50px;
+}
+.img-school-card{
+    padding: 60px 0px 0px 30px !important
+}
+.card-text-school{
+    padding-left: 20px !important;
+    text-align: justify;
+}
+.img-school-card img{
+    margin-bottom: 20px;
+}
+.blog-entries-content{
+    padding-right: 50px !important;
+}
+.content-carousel-article{
+    text-align: justify;
+    padding: 30px 0px 0px 85px !important;
+}
+.title-b2-in-page{
+    font-weight: 600;
+}
+.title-b1-in-page{
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.carousel-control-next {
+    right: -30px !important;
+}
+.carousel-control-prev{
+    left: -30px !important;
+}
+.dropdown:hover .submenu {
+    display: block;
+}
+.submenu {
+    display: none;
+    position: absolute;
+    background-color: rgba(42, 43, 44, 0.927);
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    width: 150px;
+    bottom: -48px;
+    right: -30px;
+    height: 40px;
+    list-style-type: none;
+    padding-top: 5px;
+}
+.submenu ul{
+    width: fit-content;
+    height: 20px;
+    list-style-type: none;
+}
+
+.submenu a {
+    color: #fff;
+    padding: 20px;
+    text-decoration: none;
+}
+.tooltip {
+    position: relative;
+    opacity: 1 !important;
+}
+  
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: fit-content;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px 5px;
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: 35%;
+}
+  
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    margin-top: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent black transparent transparent;
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
